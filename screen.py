@@ -51,7 +51,7 @@ def manual_screen_recorder():
         # 8. Clean up
         out.release()
         cv2.destroyAllWindows()
-        print("Recording stopped and saved as tic tac_toe_tivals.mp4")
+        print("Recording stopped and saved as long_recording_tivals.mp4")
 
 if __name__ == "__main__":
     manual_screen_recorder()
